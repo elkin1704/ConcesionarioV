@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConcesionarioV.Entidades.DatosCliente">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAACAAAAAAAMAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Entidades\DatosCliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcesionarioV.Entidades.Distribuidora">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAACAAACAAAAAAQBAAAAgAAAAAAAA=</HashCode>
+      <FileName>Entidades\Distribuidora.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcesionarioV.Entidades.InformeGasto">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQAAAAAAAEAAAAAAAECAAACAAAAAQAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Entidades\InformeGasto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcesionarioV.Entidades.IngresoNeto">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQBAAAAAAEAAIAgAAACAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Entidades\IngresoNeto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcesionarioV.Entidades.Inventario">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAABIAAAAAAAAAAAAAAAQAAAAAgAgAAAAAg=</HashCode>
+      <FileName>Entidades\Inventario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcesionarioV.Entidades.ResumenAmortizacion">
+    <Position X="2" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAACAAEIAAAAAAACAAAAAAAAAAAAAAAAAAADAAAA=</HashCode>
+      <FileName>Entidades\ResumenAmortizacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcesionarioV.Entidades.RolPago">
+    <Position X="5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACEgAAAAAAQCAAAAQAAAAQAABAQAAQAAAAAA=</HashCode>
+      <FileName>Entidades\RolPago.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ConcesionarioV.Entidades.TablaAmortizacion">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEgAAAAAAACAAAAAAIAAABAAAAAEAICAAIA=</HashCode>
+      <FileName>Entidades\TablaAmortizacion.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
