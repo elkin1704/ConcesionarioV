@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\ConcesionarioV\ConcesionarioV\bin\Debug\net5.0\ConcesionarioV.deps.json
+C:\Users\User\source\repos\ConcesionarioV\ConcesionarioV\bin\Debug\net5.0\ConcesionarioV.dll
+C:\Users\User\source\repos\ConcesionarioV\ConcesionarioV\bin\Debug\net5.0\ref\ConcesionarioV.dll
+C:\Users\User\source\repos\ConcesionarioV\ConcesionarioV\bin\Debug\net5.0\ConcesionarioV.pdb
+C:\Users\User\source\repos\ConcesionarioV\ConcesionarioV\obj\Debug\net5.0\ConcesionarioV.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ConcesionarioV\ConcesionarioV\obj\Debug\net5.0\ConcesionarioV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConcesionarioV\ConcesionarioV\obj\Debug\net5.0\ConcesionarioV.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConcesionarioV\ConcesionarioV\obj\Debug\net5.0\ConcesionarioV.AssemblyInfo.cs
+C:\Users\User\source\repos\ConcesionarioV\ConcesionarioV\obj\Debug\net5.0\ConcesionarioV.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConcesionarioV\ConcesionarioV\obj\Debug\net5.0\ConcesionarioV.dll
+C:\Users\User\source\repos\ConcesionarioV\ConcesionarioV\obj\Debug\net5.0\ref\ConcesionarioV.dll
+C:\Users\User\source\repos\ConcesionarioV\ConcesionarioV\obj\Debug\net5.0\ConcesionarioV.pdb
